@@ -1,37 +1,31 @@
-# HCI Swiss
+# HCI Swiss — FK HERMES INTERNATIONAL
 
-HCI Swiss is a digital operations platform for independent home-care professionals, care teams and healthcare organizations.
+**FK HERMES INTERNATIONAL** is the public-facing umbrella brand for HCI Swiss.
 
-## What we offer
+HCI Swiss focuses on non-clinical digital operations, documentation and coordination workflows for care-service professionals and organisations.
 
-- operational workflows for home-care delivery
-- documentation and coordination support
-- digital tools for care professionals and organizations
-- implementation and enterprise collaboration
-- partnership and pilot opportunities
+## Commercial scope
 
-## Who it is for
+- CareOps workflow and documentation tools
+- Scoped implementation and onboarding services
+- Qualified B2B, licensing and institutional partnership enquiries
 
-Independent nurses, home-care providers, care coordinators, healthcare organizations, insurers, technology partners and institutional stakeholders.
+Offers are conditional on verified scope, eligibility, legal seller, delivery capacity and terms for the customer's country. Repository presence is not evidence of a live service, purchase entitlement, regulatory clearance or completed delivery.
 
-## Commercial models
+## Repository status and information security
 
-- SaaS / recurring subscription
-- enterprise licensing
-- implementation services
-- pilot programmes
-- strategic partnerships
+This is a **legacy public-information repository**, not the canonical current application repository or an approved production/checkout release. Historical repository materials are subject to access and content review and must not be relied on as current software, documentation or payment instructions.
 
-## International partnerships
+Never commit confidential source, customer or patient records, payment credentials, security keys, database exports or deployment settings here. Any historical exposures require separate access-control and repository-history remediation; Git ignore rules alone do not remove files already committed.
 
-HCI Swiss is open to qualified partners in Switzerland and international markets for pilots, licensing, integration and distribution.
+## Brand and contracting entity
 
-## Privacy and source-code policy
+FK HERMES INTERNATIONAL is a public commercial brand and not, on its own, a separate legal person. Applicable contracts, mandatory legal notices and invoices must identify the actual contracting and invoicing entity correctly; **FK HERMES MANAGEMENT DI F. KAMBERAJ** is the registered-enterprise designation recorded for the owner's sole-proprietor model, subject to the current legal and provider verification for each offer.
 
-This public repository is a commercial information surface only. Proprietary source code, customer information, credentials, clinical information and confidential strategy are not published here.
+## Official channel
 
-## Next step
+https://www.hciswiss.com
 
-Visit HCI Swiss: https://www.hciswiss.com
+---
 
-For partnership discussions, use the official contact channel on the HCI Swiss website.
+© 2026 FK HERMES INTERNATIONAL — public commercial information.
