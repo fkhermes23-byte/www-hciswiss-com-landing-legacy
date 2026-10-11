@@ -1,0 +1,42 @@
+# HCI SWISS — PUBLIC INFORMATION REPOSITORY ONLY
+# Prevent accidental additions of source archives, application source,
+# environment files, keys, and database exports.
+#
+# IMPORTANT: .gitignore DOES NOT remove existing tracked files or history.
+# Any prior exposure requires separate visibility/history remediation.
+
+# Source archives and backups
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.tgz
+*.bak
+*.backup
+*.dump
+
+# Secrets and local configuration
+.env
+.env.*
+**/.env
+**/.env.*
+*.pem
+*.p12
+*.pfx
+*.key
+id_rsa*
+id_ed25519*
+
+# Proprietary application/backend/database internals
+app/
+backend/
+database/
+workers/
+src/
+supabase/
+migrations/
+node_modules/
+.next/
+dist/
+build/
